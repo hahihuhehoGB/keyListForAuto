@@ -1,0 +1,17 @@
+F13 & B::Send,{Blind}{Left}
+F13 & N::Send,{Blind}{Down}
+F13 & P::Send,{Blind}{Up}
+F13 & F::Send,{Blind}{Right}
+F13 & H::Send,{Blind}{BS}
+F13 & C::Send,{Blind}^{c}
+F13 & X::Send,{Blind}^{x}
+F13 & V::Send,{Blind}^{v}
+F13 & Enter::Send,{Blind}^{Enter}
+F13 & A::Send,{Blind}^{a}
+F13 & S::Send,{Blind}^{s}
+F13 & G::Send,{Del}
+F13 & Y::Send,{Home}
+F13 & I::Send,{End}
+F13 & E::Send,{Blind}+{Up}
+F13 & D::Send,{Blind}+{Down}
+F13 & L::Send,{Blind}^{l}
